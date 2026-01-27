@@ -1,1 +1,1 @@
-# only_test
+# bitrix_component_example
