@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 use App\Entities\CarTable;
 use App\Entities\PositionTable;
 use Bitrix\Calendar\Sync\Exceptions\NotFoundException;
